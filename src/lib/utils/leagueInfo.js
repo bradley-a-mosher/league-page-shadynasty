@@ -182,7 +182,7 @@ export const managers = [
       "name": "Brad",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "NC", // (optional)
-      "bio": "I'm such a nerd for the NFL that I fantasize about football more than what is healthy. I'm always looking two draft classes ahead. Almost everyone on my roster is always on the trade block. Send me a trade I can't refuse.",
+      "bio": "All you need to know about me is I am always looking two drafts ahead.",
       "photo": "/managers/bradTEMP.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2002, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "tb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
