@@ -7,10 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Shadynasty dynasty page, the most dynastic dynasty league of all dynasty leagues. Honestly, I just wanted to see how many times I could put dynasty in one sentence. Turns out, quite a lot. Anyways, getting back to the subject at hand, this is our little website for our little league. </p>
-  <p>The purpose of the site is to have an easier way of tracking each other, because you know some of us like to be sneaky. You will have the ability to track matchups, transactions, and other pertinent league info. </p>
-  <p>Wait, there’s more! We also have a manager section, where we can display all the super duper cool managers in our league, even the not so cool ones…cough…Cliff. The managers section has information about each manager in Shadynast, including the manager's proclivity to trade, which position the manager values the most, awards the manager may have won, transaction history, and much more!</p>
-  <p>Hopefully this site proves useful for my fellow Shadynasty-ians. Now, go on and explore the majesty of our league.</p>
+  <p>Welcome to the Shadynasty dynasty page, the most dynastic dynasty league of all dynasty leagues. Honestly, I just wanted to see how many times I could put dynasty in one sentence. Turns out, quite a lot. Anyways, getting back to the subject at hand, this is our little website for our little league.</p>
+  <p>The purpose of the site is to have an easier way of tracking each other, because you know some of us like to be shady/nasty. You will have the ability to track matchups, transactions, and other pertinent league info.</p>
+  <p>But wait, there’s more! We also have a manager section, where we can display all the super duper cool managers in our league, even the not so cool ones…cough…Cliff. The managers section has information about each manager in Shadynasty, including the manager's proclivity to trade, which position the manager values the most, awards the manager may have won, transaction history, and much more!</p>
+  <p>Hopefully this site proves useful for my fellow Shadynasty-ians. And thank you to the Reddit contributor who created the template for this excellent site.  Now, go on and explore the majesty of our league.</p>
+  <p>-Bradley Mosher</p>
 `;
 
 /*   STEP 3   */
