@@ -65,14 +65,14 @@ export const managers = [
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "If you ain't first, you're last",
-      "tradingScale": 9, // 1 - 10
+      "tradingScale": 11, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Matt",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Brooklyn", // (optional)
+      "location": "Earth", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/mattTEMP.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
@@ -93,7 +93,7 @@ export const managers = [
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Noah",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Brooklyn", // (optional)
+      "location": "Earth", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/noahTEMP.gif", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
@@ -115,7 +115,7 @@ export const managers = [
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mikey",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Brooklyn", // (optional)
+      "location": "Earth", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/mikeyTEMP.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
@@ -159,7 +159,7 @@ export const managers = [
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "John",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Brooklyn", // (optional)
+      "location": "Earth", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/johnTEMP.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
@@ -203,7 +203,7 @@ export const managers = [
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Nick",
       "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Brooklyn", // (optional)
+      "location": "Earth", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/nickTEMP.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
@@ -223,9 +223,9 @@ export const managers = [
     },
         {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Froggy",
+      "name": "Bryar/Damion",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Brooklyn", // (optional)
+      "location": "Earth", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/froggyTEMP.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
